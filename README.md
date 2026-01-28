@@ -19,3 +19,4 @@ A simple desktop password manager built using Python and Tkinter.
 ## How to Run
 ```bash
 python main.py
+The default passcode for viweing the password is 1234
