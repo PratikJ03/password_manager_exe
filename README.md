@@ -16,7 +16,10 @@ A simple desktop password manager built using Python and Tkinter.
 - JSON
 - PyInstaller
 
+##Passcode
+The passcode to view the passwords is: 1234
+
 ## How to Run
 ```bash
 python main.py
-The default passcode for viweing the password is 1234
+
