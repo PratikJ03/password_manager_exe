@@ -21,6 +21,7 @@ The passcode to view the passwords is: 1234
 
 ## How to Run
 The .exe file is in dist folder in that run main.exe the app will launch
+### If you want to run in Python
 ```bash
 python main.py
 
