@@ -20,6 +20,7 @@ A simple desktop password manager built using Python and Tkinter.
 The passcode to view the passwords is: 1234
 
 ## How to Run
+The .exe file is in dist folder in that run main.exe the app will launch
 ```bash
 python main.py
 
